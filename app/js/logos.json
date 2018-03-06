@@ -1,0 +1,54 @@
+{
+  "logos": [
+    {
+      "name": "53 Bank",
+      "image": "img/53-bank.jpg",
+      "url": "http:google.com"
+    },
+    {
+      "name": "AKTPEERLES",
+      "image": "img/aktpeerless.jpg",
+      "url": "http:google.com"
+    },
+    {
+      "name": "AT&T",
+      "image": "img/AT&T.jpg",
+      "url": "http:google.com"
+    },
+    {
+      "name": "Bank of America",
+      "image": "img/Bank-of-America.jpg",
+      "url": "http:google.com"
+    },
+    {
+      "name": "Carnegie",
+      "image": "img/Carnegie.jpg",
+      "url": "http:google.com"
+    },
+    {
+      "name": "Childrens Hospital of Michigan",
+      "image": "img/Childrens-Hospital-of-Michigan.jpg",
+      "url": "http:google.com"
+    },
+    {
+      "name": "Citizens Bank",
+      "image": "img/Citizens-Bank.jpg",
+      "url": "http:google.com"
+    },
+    {
+      "name": "Community Foundation",
+      "image": "img/Community-Foundation.jpg",
+      "url": "http:google.com"
+    },
+    {
+      "name": "Community Foundation for Southeastern Michigan",
+      "image": "img/Community-Foundation-for-Southeastern-Michigan.jpg",
+      "url": "http:google.com"
+    },
+    {
+      "name": "Defense Logistics Agency",
+      "image": "img/Defense-logistics-Agency.jpg",
+      "url": "http:google.com"
+    }
+  ]
+}

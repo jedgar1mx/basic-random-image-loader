@@ -1,4 +1,6 @@
 const url = "js/logos.json";
+const padding = 8;
+const imageSize = 150;
 fetch(url)
 .then((resp) => resp.json()) // Transform the data into json
 .then(function(data) {
@@ -6,7 +8,8 @@ fetch(url)
   let selected = [];
   let logos = [];
   let containerSize = document.getElementById('logos-container').offsetWidth;
-  let numberofLogos = parseInt(containerSize / 150);
+  let numberofLogos = Math.floor(containerSize / (padding + imageSize));
+  console.log(containerSize);
   console.log(numberofLogos);
   while (logos.length < numberofLogos) {
     var random = Math.floor(Math.random()*data.logos.length);

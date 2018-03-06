@@ -1,8 +1,9 @@
-# Boarding Brigade
-Help keep track of the home boarding program for the City of Detroit.
+# Basic Random Image Loader
+Just a simple way to load random images dynamically.
 
-# Install
-Clone the project. Run `npm install` inside the project folder
+# Instructions
+To add and change the images just add/remove images from the "img" folder and add/remove the image set from the logos.json.
 
-# Develoment
-run `gulp` to load the project locally under `https://localhost:3000`
+# Update
+Number of images is determined by the size of "logos-container"
+Hope that helps.

@@ -1,5 +1,5 @@
 {
-  "name": "Basic Random Image Loader",
+  "name": "basic-random-image-loader",
   "version": "1.0.0",
   "description": "Just a simple way to load random images dynamically.",
   "main": "main.js",
